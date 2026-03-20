@@ -58,12 +58,6 @@ Four simple parts. Unique. Memorable. Shareable anywhere.
 
 ---
 
-<div align="center">
-
-**Made with ❤️ in Nepal 🇳🇵**
-
-[kataho.app](https://kataho.app) · [Contact](https://kataho.app/contact) · [Get Your Plate](https://kataho.app/plate)
-
 *Addressgraph Nepal Pvt. Ltd.*
 
 </div>
