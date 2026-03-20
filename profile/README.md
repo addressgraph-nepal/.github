@@ -10,11 +10,4 @@
   ██║  ██╗██║  ██║   ██║   ██║  ██║██║  ██║╚██████╔╝
   ╚═╝  ╚═╝╚═╝  ╚═╝   ╚═╝   ╚═╝  ╚═╝╚═╝  ╚═╝ ╚═════╝
 ```
-## 🏅 Recognition
-
-> 🌟 **WSA Global Winner** — recognized for digital innovation and social impact  
----
-
-*Addressgraph Nepal Pvt. Ltd.*
-
 </div>
