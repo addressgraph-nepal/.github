@@ -33,18 +33,6 @@
 
 ---
 
-## ⚡ Core Features
-
-|  | Feature | Description |
-|--|---------|-------------|
-| 📍 | **Precision Grids** | 15.2B+ unique plots covering all of Nepal |
-| 🗣️ | **Nepali-First Codes** | Addresses from 400 common Nepali words |
-| 📶 | **Offline Ready** | Works without internet — perfect for remote areas |
-| 🪧 | **Custom Address Plates** | Metal, wood, glass — with QR codes, delivered to you |
-| 🚨 | **Emergency Response** | Real-time alerts for police, fire & medical teams |
-| 🌐 | **Bilingual** | Full Nepali & English support |
-
----
 
 ## 🔤 How an Address Looks
 
